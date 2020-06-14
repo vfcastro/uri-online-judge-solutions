@@ -5,3 +5,4 @@ Solutions to URI Online Judge problems. https://www.urionlinejudge.com.br/
 | #    | Name                   | Category              | Solutions 
 | ---  | ---                    | ---                   | ---       
 | 1001 | Extremely Basic	      | Beginner              | [JavaScript](src/1001-ExtremelyBasic.js)
+| 1002 | Area of a Circle	      | Beginner              | [JavaScript](src/1002-AreaOfaCircle.js)
