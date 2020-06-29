@@ -12,3 +12,4 @@ Solutions to URI Online Judge problems. https://www.urionlinejudge.com.br/
 | 2165 | Frota de Táxi   	                  | Ad-hoc                          | 1       | [JavaScript](src/2295-FrotaDeTaxi.js)
 | 1873 | Rock-paper-scissors-lizard-Spock   | Strings                         | 1       | [JavaScript](src/1873-RockPaperScissorsLizardSpock.js)
 | 2961 | Too many movies!                   | Data Structures and Libraries   | 1       | [JavaScript](src/2961-TooManyMovies.js)
+| 1436 | Brick Game                         | Mathematics                     | 1       | [JavaScript](src/1436-BrickGame.js)
